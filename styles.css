@@ -7,6 +7,9 @@
     text-decoration: none;
     list-style: none;
 }
+html{
+    scroll-behavior: smooth;
+}
 body{
     font-family: 'Poppins', sans-serif;
     overflow-x: hidden;
@@ -280,7 +283,6 @@ hr{
 
 a{
     font-size: 14px;
-    display: block;
     margin-bottom: 10px;
     color: #545454;
 }
